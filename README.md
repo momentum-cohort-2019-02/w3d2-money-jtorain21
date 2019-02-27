@@ -37,3 +37,4 @@ Take a look at [this guide to Python's magic methods](https://rszalski.github.io
 ### Another option
 
 Go back to yesterday's assignment and re-read it. Then implement a `CurrencyConverter` class that takes a list of rates, and has a `convert` method to convert money. Write tests for this class.
+ 
